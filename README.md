@@ -1,5 +1,8 @@
 ### Hi there 👋
 ### ⚡ Fun fact: I`m student!
+### 🌱 I’m currently learning .NET
+### 😄 Pronouns: he/here
+### 🔭 I’m currently working on .NET products
 <!--
 **Mikas777/Mikas777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
